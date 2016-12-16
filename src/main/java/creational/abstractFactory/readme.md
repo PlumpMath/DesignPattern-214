@@ -13,4 +13,4 @@
     *ConcreteProduct 定义一个将被相应的具体工厂创建的产品对象。实现AbstractProduct接口
     *ClientTest 仅使用由AbstractFactory和AbstractProduct类声明的接口
 #类图
-![抽象工厂类图](../AbstractFactory.jpg)
+![抽象工厂类图](AbstractFactory.jpg)
