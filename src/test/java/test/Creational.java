@@ -17,7 +17,7 @@ import creational.prototype.ConcretePrototype;
 import creational.prototype.Prototype;
 import creational.singleton.Singleton;
 
-public class CreatorTest {
+public class Creational {
 
 	@Test
 	public void abstractFactory() {
